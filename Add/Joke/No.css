@@ -1,0 +1,14 @@
+body {
+    background-color:yellow;
+    font-family:Verdana;
+}
+a {
+    color:black;
+    text-decoration:none;
+}
+[class="1"] {
+    text-align:center;
+}
+[class="2"] {
+    font-size:100px;
+}
